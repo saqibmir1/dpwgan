@@ -1,14 +1,7 @@
 # DPWGAN
 
-[![Build Status](https://travis-ci.org/civisanalytics/dpwgan.svg?branch=master)](https://travis-ci.org/civisanalytics/dpwgan)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE.txt)
-
 Code for a differentially private Wasserstein GAN implemented in [PyTorch](https://pytorch.org/)
 
-## Maintenance
-
-This project is released as-is, and is not actively maintained by Civis Analytics.
 
 ## Installation
 
